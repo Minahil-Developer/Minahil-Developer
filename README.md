@@ -32,7 +32,7 @@ I am a passionate developer focused on building scalable web and mobile applicat
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [://linkedin.com](linkedin.com/in/mina-hil-ab6a90294/?skipRedirect=true) 
+- 💼 **LinkedIn:** linkedin.com/in/mina-hil-ab6a90294/?skipRedirect=true 
 - 📧 **Email:** hilm94257@gmail.com 
 
 ---
